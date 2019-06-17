@@ -10,6 +10,7 @@
     "lint": "eslint --fix --ext .js,.vue src",
     "build": "node build/build.js"
   },
+  "homepage": "./",
   "dependencies": {
     "element-ui": "^2.5.4",
     "node-sass": "^4.11.0",
